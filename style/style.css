@@ -1,0 +1,91 @@
+.container{
+    width: 1373px;
+    background-color: whitesmoke;
+    color: white;
+    display: flex;
+    margin-top: -15px;
+    margin-left: -15px;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    text-align: center;
+}
+
+.box-box1 {
+    background-color: #2cd1ab;
+    width: 230px;
+    height: 45px;
+    padding-top: 30px;
+    order: 5;
+  }
+  
+  .box-box2 {
+    background-color: #3be043;
+    width: 230px;
+    height: 45px;
+    padding-top: 30px;
+    order: 7;
+  }
+  
+  .box-box3 {
+    background-color: #3561f1;
+    width: 230px;
+    height: 45px;
+    padding-top: 30px;
+    order: 8;
+  }
+  
+  .box-box4 {
+    background-color: #ce36c6;
+    width: 230px;
+    height: 45px;
+    padding-top: 30px;
+    order: 9;
+  }
+  
+  .box-box5 {
+    background-color: #180b31;
+    width: 230px;
+    height: 45px;
+    padding-top: 30px;
+    order: 10;
+  }
+  
+  .box-box6 {
+    background-color: #fccf3a;
+    width: 230px;
+    height: 45px;
+    padding-top: 30px;
+    order: 1;
+  }
+  
+  .box-box7 {
+    background-color: #fca505;
+    width: 230px;
+    height: 45px;
+    padding-top: 30px;
+    order: 6;
+  }
+  
+  .box-box8 {
+    background-color: #fa2424;
+    width: 230px;
+    height: 45px;
+    padding-top: 30px;
+    order: 2;
+  }
+  
+  .box-box9 {
+    background-color: #a9a9a9;
+    width: 230px;
+    height: 45px;
+    padding-top: 30px;
+    order: 3;
+  }
+  
+  .box-box10 {
+    background-color: #808080;
+    width: 230px;
+    height: 45px;
+    padding-top: 30px;
+    order: 4;
+  }
